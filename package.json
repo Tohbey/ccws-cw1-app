@@ -1,0 +1,18 @@
+{
+  "name": "ccws-cw1-app",
+  "version": "1.0.0",
+  "description": "App Engine application that can be used to view the images stored in your storage bucket.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fafowora Oluwatobiloba Kayode (s2331174)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
