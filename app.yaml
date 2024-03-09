@@ -1,1 +1,2 @@
 runtime: nodejs20
+service: ccws-cw1-app

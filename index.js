@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
   res.status(200).send(`
         <h3>The Second App Engine App Task!</h3>
         <p>Add <b>'/ofafow300'</b> This will view all the 3 images</p>
-        <p>Add <b>'/ofafow300/1', '/ofafow300/2', '/ofafow300/3'</b> to view metadata for each image.</p>
+        <p>Add <b>'/ofafow300/1', '/ofafow300/2', '/ofafow300/3'</b> to view each image.</p>
   `).end();
 });
 
